@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'jakeliny2',
+  github: 'jakeliny',
   youtube: 'jakelinygracielly',
   twitch: 'jakeliny',
   instagram: 'jakeliny.gracielly',
