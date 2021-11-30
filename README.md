@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021
+O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-las em um layout com a cara do evento DoWhile 2021
 
 ## 🔖 Layout
 
